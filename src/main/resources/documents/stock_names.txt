@@ -1,0 +1,12 @@
+| Ticker | Nome da Empresa               |
+|--------|-------------------------------|
+| NVDA   | NVIDIA Corporation            |
+| MU     | Micron Technology, Inc.       |
+| AAPL   | Apple Inc.                    |
+| MSFT   | Microsoft Corporation         |
+| INTC   | Intel Corporation             |
+| TSLA   | Tesla, Inc.                   |
+| META   | Meta Platforms, Inc.          |
+| AMD    | Advanced Micro Devices, Inc.  |
+| AVGO   | Broadcom Inc.                 |
+| AMZN   | Amazon.com, Inc.              |
